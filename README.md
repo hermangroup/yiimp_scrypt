@@ -1,4 +1,4 @@
-# yiimp_scrypt
+# yiimp_scrypt - + Bitcash support
 
 ***********************************
 
