@@ -17,4 +17,6 @@ Connect on your VPS =>
 - sudo bash screen-scrypt.sh
 - NOT MANDATORY => sudo bash screen-stratum.sh (CONFIGURE BEFORE START this script... add or remove algo you use).
 
+- Oprational pool : http://pool.peopleland.net/
+
 
