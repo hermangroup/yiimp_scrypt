@@ -193,6 +193,8 @@ default         0;
     sudo ufw allow ssh
     sudo ufw allow http
     sudo ufw allow https
+    sudo ufw allow 3224/tcp
+    sudo ufw allow 3033/tcp
     sudo ufw allow 3333/tcp
     sudo ufw allow 3339/tcp
     sudo ufw allow 3334/tcp
@@ -284,7 +286,7 @@ default         0;
     # Generating Random Password for stratum
     blckntifypass=`cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w 32 | head -n 1`
     cd ~
-    git clone https://github.com/WillyTheCat/bitcashyiimpx16.git
+    git clone https://github.com/hermangroup/yiimp-peopleland.git
     sudo mv $HOME/bitcashyiimpx16/ $HOME/yiimp
     cd $HOME/yiimp
     git checkout next
@@ -1015,6 +1017,6 @@ $configAlgoNormCoef = array(
     output "TUTO Youtube : https://www.youtube.com/watch?v=vdBCw6_cyig"
     output "Discord: https://discord.gg/2mDkbyM"
     output " "
-    output "Sunning Pool : http://pool.peopleland.net"
+    output "Running Pool : http://pool.peopleland.net"
     output " "
     output " "
