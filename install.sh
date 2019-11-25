@@ -287,7 +287,7 @@ default         0;
     blckntifypass=`cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w 32 | head -n 1`
     cd ~
     git clone https://github.com/hermangroup/yiimp-peopleland.git
-    sudo mv $HOME/bitcashyiimpx16/ $HOME/yiimp
+    sudo mv $HOME/yiimp-peopleland-next/ $HOME/yiimp
     cd $HOME/yiimp
     git checkout next
     cd $HOME/yiimp/blocknotify
