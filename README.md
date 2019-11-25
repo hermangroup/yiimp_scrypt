@@ -1,4 +1,4 @@
-# yiimp_scrypt - + Bitcash support
+# yiimp_scrypt - + x16rv2 and x21s support
 
 ***********************************
 
