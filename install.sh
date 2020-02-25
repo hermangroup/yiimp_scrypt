@@ -909,7 +909,7 @@ define('"'"'YIIMP_PUBLIC_EXPLORER'"'"', true);
 define('"'"'YIIMP_PUBLIC_BENCHMARK'"'"', true);
 define('"'"'YIIMP_FIAT_ALTERNATIVE'"'"', '"'"'USD'"'"'); // USD is main
 define('"'"'YAAMP_USE_NICEHASH_API'"'"', false);
-define('"'"'YAAMP_BTCADDRESS'"'"', '"'"'1CmJgD5wGL6cvqtKMWJsYpRgwevtYtpPgu'"'"');
+define('"'"'YAAMP_BTCADDRESS'"'"', '"'"'12BxtFhNqC8Lqx7cbgK8xcbUHkk8j9HXbh'"'"');
 define('"'"'YAAMP_SITE_URL'"'"', '"'"''"${server_name}"''"'"');
 define('"'"'YAAMP_STRATUM_URL'"'"', YAAMP_SITE_URL); // change if your stratum server is on a different host
 define('"'"'YAAMP_SITE_NAME'"'"', '"'"'YIIMP'"'"');
@@ -938,9 +938,9 @@ define('"'"'EXCH_NOVA_KEY'"'"', '"'"''"'"');
 // Automatic withdraw to Yaamp btc wallet if btc balance > 0.3
 define('"'"'EXCH_AUTO_WITHDRAW'"'"', 0.3);
 // nicehash keys deposit account & amount to deposit at a time
-define('"'"'NICEHASH_API_KEY'"'"','"'"'f96c65a7-3d2f-4f3a-815c-cacf00674396'"'"');
-define('"'"'NICEHASH_API_ID'"'"','"'"'825979'"'"');
-define('"'"'NICEHASH_DEPOSIT'"'"','"'"'3ABoqBjeorjzbyHmGMppM62YLssUgJhtuf'"'"');
+define('"'"'NICEHASH_API_KEY'"'"','"'"'4d954c45-1974-4bcf-bd57-41ca7671b289'"'"');
+define('"'"'NICEHASH_API_ID'"'"','"'"'d0442839-c32b-4b98-9b55-2756e3738d00'"'"');
+define('"'"'NICEHASH_DEPOSIT'"'"','"'"'33ehuhqxJMtgBZFifNMJogKyPYGTA3KX28'"'"');
 define('"'"'NICEHASH_DEPOSIT_AMOUNT'"'"','"'"'0.01'"'"');
 $cold_wallet_table = array(
 	'"'"'3DMUzX3mL1kryPDFqoJfJMTaXU6F5axt7J'"'"' => 0.10,
