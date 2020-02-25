@@ -195,6 +195,7 @@ default         0;
     sudo ufw allow https
     sudo ufw allow 3224/tcp
     sudo ufw allow 3033/tcp
+    sudo ufw allow 3131/tcp
     sudo ufw allow 3333/tcp
     sudo ufw allow 3339/tcp
     sudo ufw allow 3334/tcp
