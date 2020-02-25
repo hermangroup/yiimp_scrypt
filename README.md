@@ -1,4 +1,4 @@
-# yiimp_scrypt - + x16rv2 and x21s support
+# yiimp_scrypt - + x16rv2 , x25x and x21s support
 
 ***********************************
 
@@ -19,4 +19,14 @@ Connect on your VPS =>
 
 - Operational pool : http://pool.peopleland.net/
 
+Help us on this project with your Donations :
 
+BTC : 12BxtFhNqC8Lqx7cbgK8xcbUHkk8j9HXbh
+
+ETH : 0xd7641cf199bfe871d4df8ac15d28012031099c51
+
+LTC : LXuxApJHCfvgtR7NbsED8rCWx95jaU3YqU
+
+BCH : qpz7kcvxd03ncfm2t566dtulgqaykns50ucx0k5xpk
+
+RVN : RNU6wfcDD5LGDxKYBPaMBDYPYq4kJep1Fy
